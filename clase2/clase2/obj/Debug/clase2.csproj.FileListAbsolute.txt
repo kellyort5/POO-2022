@@ -1,0 +1,7 @@
+C:\Users\carlos\Documents\POO-2022\clase2\clase2\bin\Debug\clase2.exe
+C:\Users\carlos\Documents\POO-2022\clase2\clase2\bin\Debug\clase2.pdb
+C:\Users\carlos\Documents\POO-2022\clase2\clase2\obj\Debug\clase2.csproj.AssemblyReference.cache
+C:\Users\carlos\Documents\POO-2022\clase2\clase2\obj\Debug\clase2.csproj.SuggestedBindingRedirects.cache
+C:\Users\carlos\Documents\POO-2022\clase2\clase2\obj\Debug\clase2.csproj.CoreCompileInputs.cache
+C:\Users\carlos\Documents\POO-2022\clase2\clase2\obj\Debug\clase2.exe
+C:\Users\carlos\Documents\POO-2022\clase2\clase2\obj\Debug\clase2.pdb

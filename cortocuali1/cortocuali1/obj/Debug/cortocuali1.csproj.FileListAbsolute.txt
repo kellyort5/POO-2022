@@ -1,0 +1,7 @@
+C:\Users\carlos\Documents\POO-2022\cortocuali1\cortocuali1\bin\Debug\cortocuali1.exe
+C:\Users\carlos\Documents\POO-2022\cortocuali1\cortocuali1\bin\Debug\cortocuali1.pdb
+C:\Users\carlos\Documents\POO-2022\cortocuali1\cortocuali1\obj\Debug\cortocuali1.csproj.AssemblyReference.cache
+C:\Users\carlos\Documents\POO-2022\cortocuali1\cortocuali1\obj\Debug\cortocuali1.csproj.SuggestedBindingRedirects.cache
+C:\Users\carlos\Documents\POO-2022\cortocuali1\cortocuali1\obj\Debug\cortocuali1.csproj.CoreCompileInputs.cache
+C:\Users\carlos\Documents\POO-2022\cortocuali1\cortocuali1\obj\Debug\cortocuali1.exe
+C:\Users\carlos\Documents\POO-2022\cortocuali1\cortocuali1\obj\Debug\cortocuali1.pdb

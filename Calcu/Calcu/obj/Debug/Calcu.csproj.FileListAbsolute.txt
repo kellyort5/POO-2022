@@ -1,0 +1,7 @@
+C:\Users\carlos\Documents\POO-2022\Calcu\Calcu\bin\Debug\Calcu.exe
+C:\Users\carlos\Documents\POO-2022\Calcu\Calcu\bin\Debug\Calcu.pdb
+C:\Users\carlos\Documents\POO-2022\Calcu\Calcu\obj\Debug\Calcu.csproj.AssemblyReference.cache
+C:\Users\carlos\Documents\POO-2022\Calcu\Calcu\obj\Debug\Calcu.csproj.SuggestedBindingRedirects.cache
+C:\Users\carlos\Documents\POO-2022\Calcu\Calcu\obj\Debug\Calcu.csproj.CoreCompileInputs.cache
+C:\Users\carlos\Documents\POO-2022\Calcu\Calcu\obj\Debug\Calcu.exe
+C:\Users\carlos\Documents\POO-2022\Calcu\Calcu\obj\Debug\Calcu.pdb

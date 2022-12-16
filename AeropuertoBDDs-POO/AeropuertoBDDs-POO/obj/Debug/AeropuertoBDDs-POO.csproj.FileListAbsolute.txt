@@ -1,0 +1,11 @@
+C:\Users\carlos\Documents\POO-2022\AeropuertoBDDs-POO\AeropuertoBDDs-POO\bin\Debug\AeropuertoBDDs_POO.exe.config
+C:\Users\carlos\Documents\POO-2022\AeropuertoBDDs-POO\AeropuertoBDDs-POO\bin\Debug\AeropuertoBDDs_POO.exe
+C:\Users\carlos\Documents\POO-2022\AeropuertoBDDs-POO\AeropuertoBDDs-POO\bin\Debug\AeropuertoBDDs_POO.pdb
+C:\Users\carlos\Documents\POO-2022\AeropuertoBDDs-POO\AeropuertoBDDs-POO\obj\Debug\AeropuertoBDDs-POO.csproj.AssemblyReference.cache
+C:\Users\carlos\Documents\POO-2022\AeropuertoBDDs-POO\AeropuertoBDDs-POO\obj\Debug\AeropuertoBDDs-POO.csproj.SuggestedBindingRedirects.cache
+C:\Users\carlos\Documents\POO-2022\AeropuertoBDDs-POO\AeropuertoBDDs-POO\obj\Debug\AeropuertoBDDs_POO.Properties.Resources.resources
+C:\Users\carlos\Documents\POO-2022\AeropuertoBDDs-POO\AeropuertoBDDs-POO\obj\Debug\AeropuertoBDDs-POO.csproj.GenerateResource.cache
+C:\Users\carlos\Documents\POO-2022\AeropuertoBDDs-POO\AeropuertoBDDs-POO\obj\Debug\AeropuertoBDDs-POO.csproj.CoreCompileInputs.cache
+C:\Users\carlos\Documents\POO-2022\AeropuertoBDDs-POO\AeropuertoBDDs-POO\obj\Debug\AeropuertoBDDs_POO.exe
+C:\Users\carlos\Documents\POO-2022\AeropuertoBDDs-POO\AeropuertoBDDs-POO\obj\Debug\AeropuertoBDDs_POO.pdb
+C:\Users\carlos\Documents\POO-2022\AeropuertoBDDs-POO\AeropuertoBDDs-POO\obj\Debug\AeropuertoBDDs_POO.Form1.resources

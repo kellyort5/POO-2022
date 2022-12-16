@@ -1,0 +1,11 @@
+C:\Users\carlos\Documents\POO-2022\gui1\gui1\bin\Debug\gui1.exe.config
+C:\Users\carlos\Documents\POO-2022\gui1\gui1\bin\Debug\gui1.exe
+C:\Users\carlos\Documents\POO-2022\gui1\gui1\bin\Debug\gui1.pdb
+C:\Users\carlos\Documents\POO-2022\gui1\gui1\obj\Debug\gui1.csproj.AssemblyReference.cache
+C:\Users\carlos\Documents\POO-2022\gui1\gui1\obj\Debug\gui1.csproj.SuggestedBindingRedirects.cache
+C:\Users\carlos\Documents\POO-2022\gui1\gui1\obj\Debug\gui1.Properties.Resources.resources
+C:\Users\carlos\Documents\POO-2022\gui1\gui1\obj\Debug\gui1.csproj.GenerateResource.cache
+C:\Users\carlos\Documents\POO-2022\gui1\gui1\obj\Debug\gui1.csproj.CoreCompileInputs.cache
+C:\Users\carlos\Documents\POO-2022\gui1\gui1\obj\Debug\gui1.exe
+C:\Users\carlos\Documents\POO-2022\gui1\gui1\obj\Debug\gui1.pdb
+C:\Users\carlos\Documents\POO-2022\gui1\gui1\obj\Debug\gui1.Form1.resources

@@ -1,0 +1,7 @@
+C:\Users\carlos\Documents\POO-2022\arreglos\arreglos\bin\Debug\arreglos.exe
+C:\Users\carlos\Documents\POO-2022\arreglos\arreglos\bin\Debug\arreglos.pdb
+C:\Users\carlos\Documents\POO-2022\arreglos\arreglos\obj\Debug\arreglos.csproj.AssemblyReference.cache
+C:\Users\carlos\Documents\POO-2022\arreglos\arreglos\obj\Debug\arreglos.csproj.SuggestedBindingRedirects.cache
+C:\Users\carlos\Documents\POO-2022\arreglos\arreglos\obj\Debug\arreglos.csproj.CoreCompileInputs.cache
+C:\Users\carlos\Documents\POO-2022\arreglos\arreglos\obj\Debug\arreglos.exe
+C:\Users\carlos\Documents\POO-2022\arreglos\arreglos\obj\Debug\arreglos.pdb

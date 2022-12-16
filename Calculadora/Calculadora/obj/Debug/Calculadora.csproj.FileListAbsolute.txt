@@ -1,0 +1,7 @@
+C:\Users\carlos\Documents\POO-2022\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+C:\Users\carlos\Documents\POO-2022\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.SuggestedBindingRedirects.cache
+C:\Users\carlos\Documents\POO-2022\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\carlos\Documents\POO-2022\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\carlos\Documents\POO-2022\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\carlos\Documents\POO-2022\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\carlos\Documents\POO-2022\Calculadora\Calculadora\obj\Debug\Calculadora.pdb

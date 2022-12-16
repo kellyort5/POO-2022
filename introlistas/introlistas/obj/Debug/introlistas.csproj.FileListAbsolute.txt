@@ -1,0 +1,7 @@
+C:\Users\carlos\Documents\POO-2022\introlistas\introlistas\bin\Debug\introlistas.exe
+C:\Users\carlos\Documents\POO-2022\introlistas\introlistas\bin\Debug\introlistas.pdb
+C:\Users\carlos\Documents\POO-2022\introlistas\introlistas\obj\Debug\introlistas.csproj.AssemblyReference.cache
+C:\Users\carlos\Documents\POO-2022\introlistas\introlistas\obj\Debug\introlistas.csproj.SuggestedBindingRedirects.cache
+C:\Users\carlos\Documents\POO-2022\introlistas\introlistas\obj\Debug\introlistas.csproj.CoreCompileInputs.cache
+C:\Users\carlos\Documents\POO-2022\introlistas\introlistas\obj\Debug\introlistas.exe
+C:\Users\carlos\Documents\POO-2022\introlistas\introlistas\obj\Debug\introlistas.pdb

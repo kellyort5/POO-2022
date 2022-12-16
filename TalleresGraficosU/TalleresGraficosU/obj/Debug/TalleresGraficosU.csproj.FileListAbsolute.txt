@@ -1,0 +1,15 @@
+C:\Users\carlos\Documents\POO-2022\TalleresGraficosU\TalleresGraficosU\bin\Debug\TalleresGraficosU.exe.config
+C:\Users\carlos\Documents\POO-2022\TalleresGraficosU\TalleresGraficosU\bin\Debug\TalleresGraficosU.exe
+C:\Users\carlos\Documents\POO-2022\TalleresGraficosU\TalleresGraficosU\bin\Debug\TalleresGraficosU.pdb
+C:\Users\carlos\Documents\POO-2022\TalleresGraficosU\TalleresGraficosU\obj\Debug\TalleresGraficosU.csproj.AssemblyReference.cache
+C:\Users\carlos\Documents\POO-2022\TalleresGraficosU\TalleresGraficosU\obj\Debug\TalleresGraficosU.csproj.SuggestedBindingRedirects.cache
+C:\Users\carlos\Documents\POO-2022\TalleresGraficosU\TalleresGraficosU\obj\Debug\TalleresGraficosU.Properties.Resources.resources
+C:\Users\carlos\Documents\POO-2022\TalleresGraficosU\TalleresGraficosU\obj\Debug\TalleresGraficosU.csproj.GenerateResource.cache
+C:\Users\carlos\Documents\POO-2022\TalleresGraficosU\TalleresGraficosU\obj\Debug\TalleresGraficosU.csproj.CoreCompileInputs.cache
+C:\Users\carlos\Documents\POO-2022\TalleresGraficosU\TalleresGraficosU\obj\Debug\TalleresGraficosU.exe
+C:\Users\carlos\Documents\POO-2022\TalleresGraficosU\TalleresGraficosU\obj\Debug\TalleresGraficosU.pdb
+C:\Users\carlos\Documents\POO-2022\TalleresGraficosU\TalleresGraficosU\obj\Debug\TalleresGraficosU.Form1.resources
+C:\Users\carlos\Documents\POO-2022\TalleresGraficosU\TalleresGraficosU\obj\Debug\TalleresGraficosU.frnEncuadernado.resources
+C:\Users\carlos\Documents\POO-2022\TalleresGraficosU\TalleresGraficosU\obj\Debug\TalleresGraficosU.barniz.resources
+C:\Users\carlos\Documents\POO-2022\TalleresGraficosU\TalleresGraficosU\obj\Debug\TalleresGraficosU.plegado.resources
+C:\Users\carlos\Documents\POO-2022\TalleresGraficosU\TalleresGraficosU\obj\Debug\TalleresGraficosU.pago.resources

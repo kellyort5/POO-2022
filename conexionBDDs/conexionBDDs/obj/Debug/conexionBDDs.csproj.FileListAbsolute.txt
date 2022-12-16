@@ -1,0 +1,11 @@
+C:\Users\carlos\Documents\POO-2022\conexionBDDs\conexionBDDs\bin\Debug\conexionBDDs.exe.config
+C:\Users\carlos\Documents\POO-2022\conexionBDDs\conexionBDDs\bin\Debug\conexionBDDs.exe
+C:\Users\carlos\Documents\POO-2022\conexionBDDs\conexionBDDs\bin\Debug\conexionBDDs.pdb
+C:\Users\carlos\Documents\POO-2022\conexionBDDs\conexionBDDs\obj\Debug\conexionBDDs.csproj.AssemblyReference.cache
+C:\Users\carlos\Documents\POO-2022\conexionBDDs\conexionBDDs\obj\Debug\conexionBDDs.csproj.SuggestedBindingRedirects.cache
+C:\Users\carlos\Documents\POO-2022\conexionBDDs\conexionBDDs\obj\Debug\conexionBDDs.Properties.Resources.resources
+C:\Users\carlos\Documents\POO-2022\conexionBDDs\conexionBDDs\obj\Debug\conexionBDDs.csproj.GenerateResource.cache
+C:\Users\carlos\Documents\POO-2022\conexionBDDs\conexionBDDs\obj\Debug\conexionBDDs.csproj.CoreCompileInputs.cache
+C:\Users\carlos\Documents\POO-2022\conexionBDDs\conexionBDDs\obj\Debug\conexionBDDs.exe
+C:\Users\carlos\Documents\POO-2022\conexionBDDs\conexionBDDs\obj\Debug\conexionBDDs.pdb
+C:\Users\carlos\Documents\POO-2022\conexionBDDs\conexionBDDs\obj\Debug\conexionBDDs.Form1.resources

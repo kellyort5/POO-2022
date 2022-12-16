@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "corto2", "corto2\corto2.csproj", "{7A39426A-F304-4AE7-8E27-283C73069FBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A39426A-F304-4AE7-8E27-283C73069FBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A39426A-F304-4AE7-8E27-283C73069FBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A39426A-F304-4AE7-8E27-283C73069FBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A39426A-F304-4AE7-8E27-283C73069FBD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
